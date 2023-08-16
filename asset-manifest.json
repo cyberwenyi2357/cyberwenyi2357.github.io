@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cyberwenyi2357.github.io/static/css/main.9509c311.css",
-    "main.js": "/cyberwenyi2357.github.io/static/js/main.3654dc9b.js",
-    "static/js/787.5809834d.chunk.js": "/cyberwenyi2357.github.io/static/js/787.5809834d.chunk.js",
-    "static/media/photo.jpg": "/cyberwenyi2357.github.io/static/media/photo.3ec66d76e8c87b8142d1.jpg",
-    "index.html": "/cyberwenyi2357.github.io/index.html",
-    "main.9509c311.css.map": "/cyberwenyi2357.github.io/static/css/main.9509c311.css.map",
-    "main.3654dc9b.js.map": "/cyberwenyi2357.github.io/static/js/main.3654dc9b.js.map",
-    "787.5809834d.chunk.js.map": "/cyberwenyi2357.github.io/static/js/787.5809834d.chunk.js.map"
+    "main.css": "/static/css/main.9509c311.css",
+    "main.js": "/static/js/main.f3000ac4.js",
+    "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/photo.jpg": "/static/media/photo.3ec66d76e8c87b8142d1.jpg",
+    "index.html": "/index.html",
+    "main.9509c311.css.map": "/static/css/main.9509c311.css.map",
+    "main.f3000ac4.js.map": "/static/js/main.f3000ac4.js.map",
+    "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9509c311.css",
-    "static/js/main.3654dc9b.js"
+    "static/js/main.f3000ac4.js"
   ]
 }
